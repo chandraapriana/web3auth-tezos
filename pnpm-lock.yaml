@@ -13,6 +13,9 @@ dependencies:
   '@tezos-core-tools/crypto-utils':
     specifier: ^0.0.7
     version: 0.0.7(@babel/core@7.21.4)
+  '@walletconnect/client':
+    specifier: ^1.8.0
+    version: 1.8.0
   '@web3auth/base':
     specifier: ^5.1.0
     version: 5.1.0(@babel/runtime@7.21.0)
